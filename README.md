@@ -1,2 +1,2 @@
 # hello-world
-Me messing around with HTML/CSS/JavaScript/who knows what else?
+Basically a sandbox for me to try replicating cool things and experimenting with JavaScript
